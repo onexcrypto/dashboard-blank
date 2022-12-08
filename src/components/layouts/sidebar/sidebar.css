@@ -1,0 +1,4 @@
+.app-menu {
+    overflow: auto;
+    -webkit-overflow-scrolling: 12px;
+}
